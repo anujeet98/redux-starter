@@ -8,6 +8,10 @@
   background-color: #f4f0fa;
 }
 
+.CounterBtn{
+  margin: 1rem 1rem;
+}
+
 .counter h1 {
   text-transform: uppercase;
   color: #575757;
